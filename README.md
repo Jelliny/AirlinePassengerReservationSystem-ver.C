@@ -7,7 +7,7 @@
 3. Book tickets (alternative flights or waitlist if tickets are insufficient)  
 4. Refund tickets (releases seats and serves waitlist in FIFO order)  
 5. Display all flights  
-6. Delete flight (with confirmation)  
+6. Delete flight (with reconfirmation)  
 0. Exit and save
 
 
