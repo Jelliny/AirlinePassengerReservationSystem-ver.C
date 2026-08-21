@@ -1,6 +1,6 @@
 # AirlinePassengerReservationSystem-ver.C
 
-This is my very‑first mini‑project as I step into the world of computer science. Inevitably, it still has plenty of flaws. I hope I can build on this starting point, keep my passion burning, and grow into a capable tech powerhouse! Huge thanks to everyone who has given me warmth and encouragement along the way!
+  This is my very‑first mini‑project as I step into the world of computer science. Inevitably, it still has plenty of flaws. I hope I can build on this starting point, keep my passion burning, and grow into a capable tech powerhouse!!! Huge thanks to everyone who has given me warmth and encouragement along the wayyyyy.
 
 ## Features
 
