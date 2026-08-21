@@ -10,13 +10,12 @@
 6. Delete flight (with confirmation)  
 0. Exit and save
 
-Data is saved to `flights.dat` and loaded automatically on startup.
 
 ---
 
 ## Build & Run
 
-Compile `APRS-CSourceCode.c` with Visual Studio or MinGW on Windows.
+Compile `APRS-CSourceCode.c` with Visual Studio on Windows.
 
 ---
 
